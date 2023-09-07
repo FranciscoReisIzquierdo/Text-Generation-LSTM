@@ -7,8 +7,8 @@
 
 The aim of this notebook is to explore the creation of a LSTM model for NLP (Natural Language Processing) and the data treatment on input data sequencies such as text
 
-### Files can be found here: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+#### Files can be found here: https://github.com/FranciscoReisIzquierdo/Text-Generation-LSTM/tree/main/Datasets
 
-### Environment: https://www.kaggle.com/
+#### Environment: https://www.kaggle.com/
 
-### Disclouser: Some of the paths to the saved models and/or datasets may be wrong depending on the environment
+#### Disclouser: Some of the paths to the saved models and/or datasets may be wrong depending on the environment
